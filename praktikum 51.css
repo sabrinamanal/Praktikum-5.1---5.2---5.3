@@ -1,0 +1,24 @@
+.column {
+    border: 2px solid black;
+    width: 160px;
+    height: 500px;
+    float: left;
+    margin-left: 40px;
+    
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange { 
+    background-color: orangered;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.blue {
+    background-color: deepskyblue;
+}
